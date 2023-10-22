@@ -29,3 +29,4 @@ Nevada	Texas
 125	99
 130	115
 137	120
+![image](https://github.com/omarttuedu/MidtermData/assets/148714324/2ba6cd65-8ef7-4f4e-88d2-f92b707693dc)
